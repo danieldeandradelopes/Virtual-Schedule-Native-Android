@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149164314190",
+    "firebase_url": "https://virtual-schedule.firebaseio.com",
+    "project_id": "virtual-schedule",
+    "storage_bucket": "virtual-schedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149164314190:android:06688d6dfaa8a4efabfd1f",
+        "android_client_info": {
+          "package_name": "jacode.com.br.agendavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149164314190-hrj7s2msdds0ev936eacatc5u80fv2g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5eFdvNgk9tZ6ORyIQ5TbM482nJUmthk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149164314190-hrj7s2msdds0ev936eacatc5u80fv2g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
